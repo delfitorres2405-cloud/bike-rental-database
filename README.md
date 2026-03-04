@@ -6,7 +6,7 @@ This application allows customers to rent and return bikes while managing availa
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Bash (Shell scripting)
 - PostgreSQL
@@ -14,7 +14,7 @@ This application allows customers to rent and return bikes while managing availa
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 bike-shop.sh  
 → Main Bash application  
@@ -24,7 +24,7 @@ bikes.sql
 
 ---
 
-## 🗄 Database Structure
+## Database Structure
 
 The system is built using three relational tables:
 
@@ -63,7 +63,7 @@ Relationships:
 
 ---
 
-## ⚙ Features
+## Features
 
 ✔ View available bikes  
 ✔ Rent a bike  
@@ -91,7 +91,7 @@ bash bike-shop.sh
 
 ---
 
-## 🧠 What This Project Demonstrates
+## What This Project Demonstrates
 
 - Bash functions and control flow
 - Regular expression input validation
