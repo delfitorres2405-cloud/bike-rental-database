@@ -77,17 +77,11 @@ Relationships:
 
 ## ▶ How to Run
 
-1) Create the database:
+1) Create the database: createdb bikes
 
-createdb bikes
+2) Import schema and data: psql -U freecodecamp -d bikes -f bikes.sql
 
-2) Import schema and data:
-
-psql -U freecodecamp -d bikes -f bikes.sql
-
-3) Run the application:
-
-bash bike-shop.sh
+3) Run the application: bash bike-shop.sh
 
 ---
 
